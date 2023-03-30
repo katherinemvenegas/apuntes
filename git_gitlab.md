@@ -1,6 +1,6 @@
 # Trabajando con git y gitLab
 
-## ¿Cómo comienzo una tarea?**
+## ¿Cómo comienzo una tarea?
 
 1. Me hago una branch en gitLab desde development feature/nombreDeLaTarea.
 2. En mi consola hago git fetch para traerme la nueva branch creada.
@@ -21,3 +21,5 @@
 3. New merge request.
 4. Del lado izquierdo selecciono la branch en la que estuve trabajando y del derecho dejo development que es a donde quiero llevar mi codigo.
 5. Compare branch and continue. 
+
+**Listo, ya puedo pasar mi tarjeta de Jira a code review y está lista para que hagan merge cuando corresponda!!!!**
